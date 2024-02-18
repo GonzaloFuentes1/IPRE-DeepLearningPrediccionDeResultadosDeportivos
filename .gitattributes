@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Scrapper/Fotmob/datos_fotmob_completo.csv filter=lfs diff=lfs merge=lfs -text

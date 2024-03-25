@@ -12,4 +12,6 @@ Datos ClubElo : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_u
 
 Datos MatchHistory : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_uc_cl/Eufh-HVf5qVFt7wqzQRWOL4B1L0PgJLQWPd8g1J6rCyM5g?e=Az3mmt
 
+Datos FBref : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_uc_cl/ElRlQovKCm5Dg-wQCnzSRBcBGR3j1mXfKCOt8rY6E7O0oA?e=leREuM
+
 TODOS LOS DATOS : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_uc_cl/EspXT2PeLe5BigrzzhjGcJABKJeTuo3MQc8Wzta_2KRosw?e=d6IHjs

@@ -15,3 +15,5 @@ Datos MatchHistory : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuen
 Datos FBref : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_uc_cl/ElRlQovKCm5Dg-wQCnzSRBcBGR3j1mXfKCOt8rY6E7O0oA?e=leREuM
 
 TODOS LOS DATOS : https://uccl0-my.sharepoint.com/:f:/g/personal/gonzalo_fuentes_uc_cl/EspXT2PeLe5BigrzzhjGcJABKJeTuo3MQc8Wzta_2KRosw?e=d6IHjs
+
+# Los modelos presentados en el informe de investigación son los de Modelos/EnsambleHistorico
